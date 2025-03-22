@@ -1,0 +1,12 @@
+{
+	"name": "MedealHTTP",
+	"properties": {
+		"annotations": [],
+		"type": "HttpServer",
+		"typeProperties": {
+			"url": "https://raw.githubusercontent.com/shiv-shankar-kumar/tokyo_olypic/refs/heads/main/Medals.csv",
+			"enableServerCertificateValidation": true,
+			"authenticationType": "Anonymous"
+		}
+	}
+}
