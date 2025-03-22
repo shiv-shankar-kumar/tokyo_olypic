@@ -1,0 +1,12 @@
+{
+	"name": "AthletesHTTP",
+	"properties": {
+		"annotations": [],
+		"type": "HttpServer",
+		"typeProperties": {
+			"url": "https://raw.githubusercontent.com/shiv-shankar-kumar/tokyo_olypic/refs/heads/main/Athletes.csv",
+			"enableServerCertificateValidation": true,
+			"authenticationType": "Anonymous"
+		}
+	}
+}
