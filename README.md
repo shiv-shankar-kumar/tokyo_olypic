@@ -1,8 +1,8 @@
  first we sink the data from git resource into Data Factory /n
- then the raw data been stored into Azure Data Lake Gen2 as raw data
+ then the raw data been stored into Azure Data Lake Gen2 as raw data\n
  the basic transformation been done with in Spark enviorenment in Azure Data Bricks
- and again the transformed data been moved into Data Lake Gen2 in file named-transformed data
- then we do some analysis on Synapse analytics
+ and again the transformed data been moved into Data Lake Gen2 in file named-transformed/n data
+ then we do some analysis on Synapse \nanalytics
  beyond this the visualization been created into Power BI, find some analysis of the data
  and finally we got some conclustion on top of it, please find some conclustion below : 
 
