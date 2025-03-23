@@ -5,6 +5,8 @@
  then the raw data been stored into Azure Data Lake Gen2 as raw data
  
  the basic transformation been done with in Spark enviorenment in Azure Data Bricks
+ ![image](https://github.com/user-attachments/assets/ffa0f0da-7076-4706-a06f-cfc18f25ce45)
+
  
  and again the transformed data been moved into Data Lake Gen2 in file named-transformed data
  
