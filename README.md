@@ -11,6 +11,8 @@
  and again the transformed data been moved into Data Lake Gen2 in file named-transformed data
  
  then we do some analysis on Synapse analytics
+![image](https://github.com/user-attachments/assets/80bb442d-4b77-4628-8b27-5e1ce6d719a5)
+
  
  beyond this the visualization been created into Power BI, find some analysis of the data
  
